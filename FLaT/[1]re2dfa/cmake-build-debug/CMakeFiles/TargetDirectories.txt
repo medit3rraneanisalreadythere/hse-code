@@ -1,0 +1,7 @@
+C:/Users/V4n3k/Documents/code2.0/FLaT/1/cmake-build-debug/CMakeFiles/re2dfa.dir
+C:/Users/V4n3k/Documents/code2.0/FLaT/1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/V4n3k/Documents/code2.0/FLaT/1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/V4n3k/Documents/code2.0/FLaT/1/cmake-build-debug/CMakeFiles/list_install_components.dir
+C:/Users/V4n3k/Documents/code2.0/FLaT/1/cmake-build-debug/CMakeFiles/install.dir
+C:/Users/V4n3k/Documents/code2.0/FLaT/1/cmake-build-debug/CMakeFiles/install/local.dir
+C:/Users/V4n3k/Documents/code2.0/FLaT/1/cmake-build-debug/CMakeFiles/install/strip.dir
