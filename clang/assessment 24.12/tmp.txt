@@ -1,0 +1,29 @@
+1   2   3   4   5   6   7
+ngs tri kee ili dee ati ngs
+4 3 6 1 2 7
+ilikeeatingstrings
+
+abcedfg
+
+
+1 x 1 y 1 1 z 1 w
+
+0 0 1 0 1 1 0 1 0
+a b a c a a d a e
+
+171 * 170 * 169 * 168 * 167
+1     x     y     z     w
+
+>>> 171 * 170 * 169 * 168 * 167
+137834358480
+
+
+
+sy
+hy
+hhyy$
+s$
+hss
+s$
+hs$
+yyy$

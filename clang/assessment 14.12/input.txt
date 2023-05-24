@@ -1,0 +1,37 @@
+aaaabazxcbazxca
+
+Никитка на маньякичах
+
+СДАТЬ:
+одна задача во втором
+2 задачи в третьем
+
+===== Test #6 =======
+--- Input: size 59 ---
+D.
+J
+W-
+C-
+P b.U-
+L
+N-
+A
+S.G-
+Whoosh.
+
+
+              
+
+  
+
+--- Output: size 5 ---
+6 4 1
+--- Correct: size 6 ---
+8 4 1
+
+--- Stderr: size 0 ---
+
+--- Checker output: size 43 ---
+Answers differ: [1]: output: 6, correct: 8
+
+012345678901234567890123456789012345678901234567890123456789012
